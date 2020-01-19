@@ -1,4 +1,4 @@
-"# invetory-app-javafx" 
-"# invetory-app-javafx" 
-"# inventory_app" 
-"# inventory_app" 
+#Inventory APP
+
+##Introduction
+Welcome to my github
