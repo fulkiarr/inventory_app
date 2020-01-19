@@ -1,0 +1,29 @@
+.login-bg {
+    -fx-background-image: url('login-screen.jpg');
+}
+
+.logo {
+    -fx-background-image: url('placeholder.png');
+    -fx-background-size: cover, auto;
+}
+
+.text-field {
+    -fx-border-color: white;
+    -fx-border-width: 0 0 1 0; // top, right, bottom, left
+    -fx-background-color: transparent;
+    -fx-padding: 10 0 10 0;
+    -fx-text-fill: white;
+}
+
+.text-field:focused {
+    -fx-border-color: white;
+    -fx-border-width: 0 0 3 0;
+}
+
+.btn-login {
+    -fx-border-color: white;
+    -fx-border-width: 1 1 1 1; // top, right, bottom, left
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-padding: 5 40 5 40;
+}
