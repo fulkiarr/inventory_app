@@ -1,4 +1,4 @@
-#Inventory APP
+# Inventory APP
 
-##Introduction
+## Introduction
 Welcome to my github
